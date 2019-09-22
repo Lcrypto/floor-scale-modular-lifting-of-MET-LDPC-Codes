@@ -1,0 +1,1 @@
+scaleForFloorLiftingManyMatrices.exe -matrices matrix.txt -sizes sizes.txt -th7 1 -distUp 26 -Upgirth 12 -top 0 -mingSumgMineSume 0 
